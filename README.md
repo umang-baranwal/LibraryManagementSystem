@@ -1,18 +1,18 @@
-****Library Management System****
+**Library Management System:**
 Welcome to the Library Management System project! This system is designed to efficiently manage library operations with a robust and secure architecture. Below are the key components and technologies used in this project.
 
-**Technologies Used**
+**Technologies Used:**
 Frontend: Angular 17
 Backend: .NetCore Web API
 Database: MySQL Server
 
-**Backend Architecture**
+**Backend Architecture:**
 The backend utilizes a secure API approach, ensuring that users are shielded from the underlying queries and backend code. MySQL Server has been chosen for its traditional reliability and efficient database management, especially in cases where cloud services are not available.
 
-**Authentication and Authorization**
+**Authentication and Authorization:**
 JWT (JSON Web Token) has been implemented for secure login and user authorization. The system has an admin user who has the authority to approve new user registrations. The admin can also add and delete books, as well as introduce new book categories.
 
-**User Functionalities**
+**User Functionalities:**
 Admin User
 -Approve new user registrations
 -Add and delete books
@@ -26,7 +26,7 @@ Regular Users
 Return books within 10 days to avoid fines
 Accumulate fines for overdue books
 
-**Usage**
+**Usage:**
 Admin Panel
 -Log in as the admin user.
 -Approve new user registrations.
