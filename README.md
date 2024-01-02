@@ -1,4 +1,4 @@
-******Library Management System******
+****Library Management System****
 Welcome to the Library Management System project! This system is designed to efficiently manage library operations with a robust and secure architecture. Below are the key components and technologies used in this project.
 
 **Technologies Used**
